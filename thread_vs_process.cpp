@@ -1,5 +1,7 @@
 /**
  * program to identify threads vs processes
+ * shows that a process with multiple threads will have the same process id
+ * with different thread ids
  */
 #include <thread>
 #include <chrono>
